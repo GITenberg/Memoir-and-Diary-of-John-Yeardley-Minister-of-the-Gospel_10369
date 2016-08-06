@@ -1,0 +1,32 @@
+_repo: Memoir-and-Diary-of-John-Yeardley-Minister-of-the-Gospel_10369
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yeardley, John
+    birthdate: 1786
+    deathdate: 1858
+    gutenberg_agent_id: '3493'
+    url: http://www.gutenberg.org/2009/agents/3493
+  editor:
+    agent_name: Tylor, Charles
+    birthdate: 1816
+    deathdate: 1902
+    gutenberg_agent_id: '40604'
+    url: http://www.gutenberg.org/2009/agents/40604
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quakers -- Biography'
+- !lcsh 'Yeardley, John, 1786-1858'
+- !lcc 'BX'
+- !lcsh 'Clergy -- United States -- Biography'
+- GITenberg
+title: Memoir and Diary of John Yeardley, Minister of the Gospel
+url: http://www.gutenberg.org/ebooks/10369
